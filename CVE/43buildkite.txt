@@ -1,4 +1,0 @@
-buildkite.com
-buildkiteusercontent.com
-buildkiteassets.com
-buildkiteartifacts.com

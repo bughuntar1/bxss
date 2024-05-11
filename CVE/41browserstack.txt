@@ -1,2 +1,0 @@
-browserstack.com
-percy.io
